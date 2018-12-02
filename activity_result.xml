@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/result"
+    tools:context="com.example.faris.lifedrops.Result"
+    tools:layout_editor_absoluteY="25dp">
+
+    <include layout="@layout/content"/>
+</android.support.constraint.ConstraintLayout>
